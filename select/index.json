@@ -1,0 +1,528 @@
+{
+  "version": 1,
+  "base_track": "Red eye (-18- Ver.)",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-27T14:52:29.619852Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Red Eye",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/01_Red_Eye_Devo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Red Eye",
+      "artist": "Kid Cudi feat. HAIM",
+      "has_synced": true,
+      "path": "select/02_Red_Eye_Kid_Cudi_feat._HAIM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Red Eye",
+      "artist": "Vance Joy",
+      "has_synced": true,
+      "path": "select/03_Red_Eye_Vance_Joy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Red Eye",
+      "artist": "Kid Cudi",
+      "has_synced": true,
+      "path": "select/04_Red_Eye_Kid_Cudi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Red Eye",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/05_Red_Eye_Justin_Bieber.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Red Eye",
+      "artist": "Kid Cudi feat. HAIM",
+      "has_synced": true,
+      "path": "select/06_Red_Eye_Kid_Cudi_feat._HAIM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Red Eye",
+      "artist": "Styles P feat. Jadakiss",
+      "has_synced": false,
+      "path": "select/07_Red_Eye_Styles_P_feat._Jadakiss.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Runaway (James Zabiela Red Eye Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/08_Runaway_(James_Zabiela_Red_Eye_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Red Eye (feat. TroyBoi)",
+      "artist": "Justin Bieber feat. TroyBoi",
+      "has_synced": true,
+      "path": "select/09_Red_Eye_(feat._TroyBoi)_Justin_Bieber_feat._TroyBoi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Red Eye (TroyBoi Remix)",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/10_Red_Eye_(TroyBoi_Remix)_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Runaway (James Zabiela's Red Eye Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/11_Runaway_(James_Zabiela's_Red_Eye_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Changes - Julien Nolan and Red-Eye Remix",
+      "artist": "Dirty Vegas",
+      "has_synced": false,
+      "path": "select/12_Changes_-_Julien_Nolan_and_Red-Eye_Remix_Dirty_Vegas.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Changes (Julien Nolan And Red-Eye Remix)",
+      "artist": "Dirty Vegas",
+      "has_synced": false,
+      "path": "select/13_Changes_(Julien_Nolan_And_Red-Eye_Remix)_Dirty_Vegas.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Red Eye (feat. HAIM)",
+      "artist": "Kid Cudi",
+      "has_synced": true,
+      "path": "select/14_Red_Eye_(feat._HAIM)_Kid_Cudi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My Left Red Eye",
+      "artist": "Worm Is Green",
+      "has_synced": true,
+      "path": "select/15_My_Left_Red_Eye_Worm_Is_Green.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "See You Tonight - The Red Eye",
+      "artist": "Mark Burke",
+      "has_synced": true,
+      "path": "select/16_See_You_Tonight_-_The_Red_Eye_Mark_Burke.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "In The Heat Of The Morning - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/17_In_The_Heat_Of_The_Morning_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Love You Till Tuesday - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/18_Love_You_Till_Tuesday_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Silly Boy Blue - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/19_Silly_Boy_Blue_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "When I Live My Dream - BBC \"Top Gear\" 18/12/67 Mono",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/20_When_I_Live_My_Dream_-_BBC__Top_Gear__18_12_67_Mono_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Enoch 18:14 (Bonus Track)",
+      "artist": "The Mountain Goats",
+      "has_synced": false,
+      "path": "select/21_Enoch_18_14_(Bonus_Track)_The_Mountain_Goats.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "18 Years",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/22_18_Years_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Section 18 (Everything Starts At the Seam)",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/23_Section_18_(Everything_Starts_At_the_Seam)_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Hangar 18",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/24_Hangar_18_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "18 Carat Love Affair",
+      "artist": "The Associates",
+      "has_synced": true,
+      "path": "select/25_18_Carat_Love_Affair_The_Associates.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "18,000 Lira",
+      "artist": "Art Brut",
+      "has_synced": true,
+      "path": "select/26_18,000_Lira_Art_Brut.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "18. Calling America",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/27_18._Calling_America_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Girl Boy (£18 Snarerush Mix)",
+      "artist": "Aphex Twin",
+      "has_synced": false,
+      "path": "select/28_Girl_Boy_(£18_Snarerush_Mix)_Aphex_Twin.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Girl/Boy (£18 Snare Rush Mix)",
+      "artist": "Aphex Twin",
+      "has_synced": false,
+      "path": "select/29_Girl_Boy_(£18_Snare_Rush_Mix)_Aphex_Twin.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Waiting For The 7.18",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/30_Waiting_For_The_7.18_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Diary of an 18 Year Old Boy",
+      "artist": "Client",
+      "has_synced": true,
+      "path": "select/31_Diary_of_an_18_Year_Old_Boy_Client.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Red (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/32_Red_(Taylor's_Version)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Velvet Red - Never Will: Live From A Distance",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/33_Velvet_Red_-_Never_Will__Live_From_A_Distance_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Velvet Red (Never Will: Live From A Distance)",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/34_Velvet_Red_(Never_Will__Live_From_A_Distance)_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Red Smoke",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/35_Red_Smoke_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Blood Red And Goin' Down",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/36_Blood_Red_And_Goin'_Down_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Blood Red And Goin' Down (Album Version)",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/37_Blood_Red_And_Goin'_Down_(Album_Version)_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Can’t Hide Red",
+      "artist": "Florida Georgia Line feat. Jason Aldean",
+      "has_synced": true,
+      "path": "select/38_Can’t_Hide_Red_Florida_Georgia_Line_feat._Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "Can’t Hide Red",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/39_Can’t_Hide_Red_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_40",
+      "source": "lrclib",
+      "title": "Can’t Hide Red",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/40_Can’t_Hide_Red_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_41",
+      "source": "lrclib",
+      "title": "Courtesy Of The Red, White And Blue (The Angry American)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/41_Courtesy_Of_The_Red,_White_And_Blue_(The_Angry_American)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_42",
+      "source": "lrclib",
+      "title": "Courtesy Of The Red, White And Blue (The Angry American) (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/42_Courtesy_Of_The_Red,_White_And_Blue_(The_Angry_American)_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_43",
+      "source": "lrclib",
+      "title": "Courtesy Of The Red, White And Blue (The Angry American) (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/43_Courtesy_Of_The_Red,_White_And_Blue_(The_Angry_American)_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_44",
+      "source": "lrclib",
+      "title": "Forever and for Always (Red Version)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/44_Forever_and_for_Always_(Red_Version)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_45",
+      "source": "lrclib",
+      "title": "I See Red",
+      "artist": "Everybody Loves an Outlaw",
+      "has_synced": false,
+      "path": "select/45_I_See_Red_Everybody_Loves_an_Outlaw.txt"
+    },
+    {
+      "id": "lrclib_46",
+      "source": "lrclib",
+      "title": "Little Red Rodeo",
+      "artist": "Phil Vassar",
+      "has_synced": true,
+      "path": "select/46_Little_Red_Rodeo_Phil_Vassar.lrc"
+    },
+    {
+      "id": "lrclib_47",
+      "source": "lrclib",
+      "title": "Ol' Red",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/47_Ol'_Red_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_48",
+      "source": "lrclib",
+      "title": "Ol' Red (Album Version)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/48_Ol'_Red_(Album_Version)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_49",
+      "source": "lrclib",
+      "title": "Hog Eye Man",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/49_Hog_Eye_Man_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_50",
+      "source": "lrclib",
+      "title": "Eye in the Sky",
+      "artist": "The Alan Parsons Project",
+      "has_synced": true,
+      "path": "select/50_Eye_in_the_Sky_The_Alan_Parsons_Project.lrc"
+    },
+    {
+      "id": "lrclib_51",
+      "source": "lrclib",
+      "title": "Not Fair - Style Of Eye Remix",
+      "artist": "Lily Allen",
+      "has_synced": false,
+      "path": "select/51_Not_Fair_-_Style_Of_Eye_Remix_Lily_Allen.txt"
+    },
+    {
+      "id": "lrclib_52",
+      "source": "lrclib",
+      "title": "Not Fair [Style Of Eye Remix] [Special Track]",
+      "artist": "Lily Allen",
+      "has_synced": false,
+      "path": "select/52_Not_Fair_[Style_Of_Eye_Remix]_[Special_Track]_Lily_Allen.txt"
+    },
+    {
+      "id": "lrclib_53",
+      "source": "lrclib",
+      "title": "Looking Through The Eye Of A Pig",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/53_Looking_Through_The_Eye_Of_A_Pig_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_54",
+      "source": "lrclib",
+      "title": "Eye 2 Eye",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/54_Eye_2_Eye_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_55",
+      "source": "lrclib",
+      "title": "Eye Contact",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/55_Eye_Contact_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_56",
+      "source": "lrclib",
+      "title": "Cat's Eye",
+      "artist": "LONE",
+      "has_synced": false,
+      "path": "select/56_Cat's_Eye_LONE.txt"
+    },
+    {
+      "id": "lrclib_57",
+      "source": "lrclib",
+      "title": "Eye A",
+      "artist": "Lawrence Arabia",
+      "has_synced": false,
+      "path": "select/57_Eye_A_Lawrence_Arabia.txt"
+    },
+    {
+      "id": "lrclib_58",
+      "source": "lrclib",
+      "title": "Eye Drops",
+      "artist": "Lemonade",
+      "has_synced": true,
+      "path": "select/58_Eye_Drops_Lemonade.lrc"
+    },
+    {
+      "id": "lrclib_59",
+      "source": "lrclib",
+      "title": "My Right Eye",
+      "artist": "Laurie Anderson",
+      "has_synced": true,
+      "path": "select/59_My_Right_Eye_Laurie_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_60",
+      "source": "lrclib",
+      "title": "Naked Eye",
+      "artist": "Luscious Jackson",
+      "has_synced": true,
+      "path": "select/60_Naked_Eye_Luscious_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_61",
+      "source": "lrclib",
+      "title": "Eye Know",
+      "artist": "De La Soul",
+      "has_synced": false,
+      "path": "select/61_Eye_Know_De_La_Soul.txt"
+    },
+    {
+      "id": "lrclib_62",
+      "source": "lrclib",
+      "title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/62_Eye_of_the_Tiger_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_63",
+      "source": "lrclib",
+      "title": "A Cheery Wave From Stranded Youngsters - Third Eye Foundation Tet Offensive Remix",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/63_A_Cheery_Wave_From_Stranded_Youngsters_-_Third_Eye_Foundation_Tet_Offensive_Remi_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_64",
+      "source": "lrclib",
+      "title": "Black Eye/Burnt Thumb",
+      "artist": "Metronomy",
+      "has_synced": false,
+      "path": "select/64_Black_Eye_Burnt_Thumb_Metronomy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "18",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_18_DEXCORE.txt"
+    }
+  ]
+}
